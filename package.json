@@ -7,13 +7,13 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "expo": "~47.0.12",
-    "expo-status-bar": "~1.4.2",
-    "react": "18.1.0",
-    "react-native": "0.70.5",
-    "expo-camera": "~13.1.0",
-    "expo-file-system": "~15.1.1",
-    "expo-constants": "~14.0.2"
+    "expo": "^48.0.1",
+    "expo-camera": "~13.2.1",
+    "expo-constants": "~14.2.1",
+    "expo-file-system": "~15.2.2",
+    "expo-status-bar": "~1.4.4",
+    "react": "18.2.0",
+    "react-native": "0.71.3"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
