@@ -7,6 +7,7 @@ export default function Index() {
   return (
     <View style={styles.container}>
       <Link href="/camera-test">Go To Camera Test</Link>
+      <Link href="/sleep-test">Go To Sleep Test</Link>
     </View>
   );
 }
