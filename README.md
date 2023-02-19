@@ -1,3 +1,16 @@
+## Setup
+
+clone this repo.  Then:
+
+```
+npm i
+npm start
+```
+
+Then open this in an Expo GO app on a real iOS device.
+
+## Description
+
 I was having an issue with `expo-camera` where the `Camera` component would
 unmount while recording a video and the `recordAsync` call would never return
 meaning I could never handle the resulting video file (in my case I was
